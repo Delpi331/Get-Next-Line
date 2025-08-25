@@ -125,9 +125,3 @@ get_next_line/
 * Manejar múltiples **file descriptors** en paralelo (cada uno con su propio buffer).
 * Añadir control de errores más detallado (ej. diferenciar EOF de fallo en `read`).
 * Mejorar eficiencia evitando limpiezas completas del buffer en cada ciclo.
-
----
-
-## 🔐 Licencia
-
-MIT — libre para usar y modificar.
